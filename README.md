@@ -46,7 +46,8 @@ Management has observed changes in admissions, outstanding bills and insurance c
 ## Visualization
 
 
-![Dashboard](Dashboard%20Image.png)
+<img width="1810" height="2027" alt="image" src="https://github.com/user-attachments/assets/418cf829-6be1-4a49-a463-ba2fa91ed780" />
+
 
 
 
