@@ -1,9 +1,8 @@
-<img width="1540" height="660" alt="image" src="https://github.com/user-attachments/assets/2062834e-637c-4bbf-8982-522fc1646021" />
+
 # SECURE LIFE GENERAL HOSPITAL PERFORMANCE DASHBOARD
 
+<img width="1540" height="660" alt="image" src="https://github.com/user-attachments/assets/2062834e-637c-4bbf-8982-522fc1646021" />
 
-
-![Introduction](<img width="1540" height="660" alt="image" src="https://github.com/user-attachments/assets/2062834e-637c-4bbf-8982-522fc1646021" />)
 
 
 
